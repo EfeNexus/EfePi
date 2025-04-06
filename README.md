@@ -4,7 +4,7 @@
 Welcome to EfePi, a platform where innovation meets community spirit. Inspired by the infinite wonder of Pi, we’re crafting a tool that empowers users, fosters collaboration, and unlocks boundless potential. Whether you’re here to connect, create, or explore, EfePi is your open gateway to a brighter future.
 
 ## What is EfePi?
-EfePi is an open-source application designed to bridge gaps and spark possibilities. Think of it as your nexus for [insert purpose, e.g., "peer-to-peer exchange" or "collaborative innovation"], built with simplicity and scalability at its core. We’re here to make a difference—together!
+EfePi is an open-source application designed to bridge gaps and spark possibilities. Think of it as your nexus for [efePiSwap https://x.com/efePiSwap], built with simplicity and scalability at its core. We’re here to make a difference—together!
 
 ## Features
 - **Open Connections**: Link up effortlessly with others.  
