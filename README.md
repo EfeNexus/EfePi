@@ -4,13 +4,13 @@
 Welcome to EfePi, a platform where innovation meets community spirit. Inspired by the infinite wonder of Pi, we’re crafting a tool that empowers users, fosters collaboration, and unlocks boundless potential. Whether you’re here to connect, create, or explore, EfePi is your open gateway to a brighter future.
 
 ## What is EfePi?
-EfePi is an open-source application designed to bridge gaps and spark possibilities. Think of it as your nexus for [efePiSwap https://x.com/efePiSwap], built with simplicity and scalability at its core. We’re here to make a difference—together!
+EfePi is an open-source application designed to bridge gaps and spark possibilities. Think of it as your nexus for https://x.com/efePiSwap, built with simplicity and scalability at its core. We’re here to make a difference—together!
 
 ## Features
 - **Open Connections**: Link up effortlessly with others.  
 - **Infinite Flexibility**: Adapts to your needs, big or small.  
 - **Community Powered**: Built by and for people like you.  
-- *(Customize with your specific features!)*  
+- *Efe Nexus Pi*  
 
 ## Getting Started
 1. **Clone the Repo**: `git clone https://github.com/yourusername/EfePi.git`  
@@ -25,7 +25,7 @@ EfePi thrives on collaboration!
 - Let’s build something that benefits us all!
 
 ## PIOS License
-EfePi is released under the **Public Interest Open Source (PIOS) ethos**—free to use, modify, and share, with a focus on serving the greater good. We’ve chosen the [MIT License](LICENSE) as our foundation, ensuring maximum freedom while encouraging contributions that uplift communities.  
+EfePi is released under the **Public Interest Open Source (PIOS) ethos**—free to use, modify, and share, with a focus on serving the greater good. We’ve chosen the [PiOS License](LICENSE) as our foundation, ensuring maximum freedom while encouraging contributions that uplift communities.  
 *Our Promise*: Use EfePi to create, connect, and inspire—no barriers, just possibilities.
 
 ## Why EfePi?
@@ -36,4 +36,4 @@ EfePi is released under the **Public Interest Open Source (PIOS) ethos**—free 
 Join us in shaping a world where technology serves everyone—let’s make it happen!
 
 ---
-*Made with passion by the EfePi collective.*
+*Made with passion by the EfeNexus.Pi collective.*
